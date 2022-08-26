@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Manjith
-- 👀 I’m interested in Exhibiting stuff on WEB
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on Web Development
+-  Hi, I’m Manjith
+-  I’m interested in Exhibiting stuff on WEB
+-  <!-- I’m currently learning...>
+-  I’m looking to collaborate on Web Development
 - 📫 ping me at "manjithkodavalla@gmail.com"
 
 <!---
